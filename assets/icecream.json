@@ -1,0 +1,93 @@
+{
+  "icecreams": [
+    {
+      "id": 0,
+      "flavour": "Vanilla",
+      "category": "Classic",
+      "isFeatured": true,
+      "description": "Classic vanilla bean ice cream",
+      "price": 99.99,
+      "image": "http://images.unsplash.com/photo-1560008581-09826d1de69e?q=80&w=1488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "inStock": true,
+      "ingredients": [
+        { "name": "milk", "quantity": "1 cup" },
+        { "name": "eggs", "quantity": "2 large" },
+        { "name": "sugar", "quantity": "3/4 cup" },
+        { "name": "vanilla extract", "quantity": "1 tablespoon" }
+      ],
+      "topping": ["Rainbow Sprinkles", "Chocolate Sauce", "Whipped Cream"]
+    },
+    {
+      "id": 1,
+      "flavour": "Chocolate",
+      "category": "Classic",
+      "isFeatured": true,
+      "description": "Rich dark chocolate ice cream",
+      "price": 199.99,
+      "image": "http://plus.unsplash.com/premium_photo-1713443950358-a1e703396a79?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "inStock": true,
+      "ingredients": [
+        { "name": "milk", "quantity": "1 cup" },
+        { "name": "soy", "quantity": "1/2 cup" },
+        { "name": "sugar", "quantity": "1 cup" },
+        { "name": "cocoa powder", "quantity": "1/2 cup" },
+        { "name": "chocolate", "quantity": "1/2 cup" }
+      ],
+      "topping": ["Chocolate Chips", "Marshmallows", "Caramel Drizzle"]
+    },
+    {
+      "id": 2,
+      "flavour": "Strawberry",
+      "category": "Fruit",
+      "isFeatured": false,
+      "description": "Fresh strawberry ice cream",
+      "price": 120.50,
+      "image": "http://images.unsplash.com/photo-1532678465554-94846274c297?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U3RyYXdiZXJyeSUyMGljZSUyMGNyZWFtfGVufDB8fDB8fHww",
+      "inStock": true,
+      "ingredients": [
+        { "name": "milk", "quantity": "1 cup" },
+        { "name": "sugar", "quantity": "1/2 cup" },
+        { "name": "strawberries", "quantity": "2 cups" },
+        { "name": "cream", "quantity": "1/2 cup" }
+      ],
+      "topping": ["Fresh Strawberries", "Mint Leaves", "Whipped Cream"]
+    },
+    {
+      "id": 3,
+      "flavour": "Mint Chocolate",
+      "category": "Unique",
+      "isFeatured": false,
+      "description": "Mint ice cream with chocolate chips",
+      "price": 300.50,
+      "image": "http://images.unsplash.com/photo-1607920591941-daa73b2dc368?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "inStock": false,
+      "ingredients": [
+        { "name": "milk", "quantity": "1 cup" },
+        { "name": "soy", "quantity": "1/2 cup" },
+        { "name": "sugar", "quantity": "3/4 cup" },
+        { "name": "mint extract", "quantity": "1 teaspoon" },
+        { "name": "chocolate chips", "quantity": "1/2 cup" }
+      ],
+      "topping": ["Mini Chocolate Chips", "Crushed Mint", "Chocolate Syrup"]
+    },
+    {
+      "id": 4,
+      "flavour": "Cookie Dough",
+      "category": "Special",
+      "isFeatured": true,
+      "description": "Vanilla ice cream with chunks of chocolate chip cookie dough",
+      "price": 300.99,
+      "image": "http://plus.unsplash.com/premium_photo-1724193103432-d47c47c17291?q=80&w=1380&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "inStock": true,
+      "ingredients": [
+        { "name": "milk", "quantity": "1 cup" },
+        { "name": "eggs", "quantity": "2 large" },
+        { "name": "wheat", "quantity": "1 cup" },
+        { "name": "sugar", "quantity": "3/4 cup" },
+        { "name": "vanilla extract", "quantity": "1 tablespoon" },
+        { "name": "chocolate chips", "quantity": "1 cup" }
+      ],
+      "topping": ["Crushed Cookies", "Chocolate Sauce", "Nuts"]
+    }
+  ]
+}
